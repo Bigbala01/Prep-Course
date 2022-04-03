@@ -247,7 +247,7 @@ function breakStatement(numero) {
   if(i === 10)return  guardar;
   return "Se interrumpió la ejecución"
   }
-    
+
  
 
 
